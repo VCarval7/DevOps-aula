@@ -1,5 +1,5 @@
 # DevOps-aula
 DevOps 
-Nágila Machado
-Luana Machado
-Fernanda Faria
+Serial Killer
+Where the wind
+Young and beautiful
