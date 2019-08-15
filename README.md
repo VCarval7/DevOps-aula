@@ -1,5 +1,5 @@
 # DevOps-aula
 DevOps 
-Nágila Machado
-Luana Machado
-Fernanda Faria
+Nágila Machado Promoter
+Luana Machado Advogada
+Fernanda Faria Biologa
