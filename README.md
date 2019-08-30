@@ -1,6 +1,4 @@
 # DevOps-aula
-DevOps 
-Nágila Machado Promoter
-Luana Machado Advogada
-Fernanda Faria Biologa
-Fabiane Ramos Empresária
+# DevOps AC2
+# Valter Felício de Carvalho - RA: 1801231
+# SI 2ºB
